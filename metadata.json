@@ -1,0 +1,8 @@
+{
+  "name": "Instagram",
+  "description": "",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
